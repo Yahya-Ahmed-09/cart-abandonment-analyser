@@ -1,0 +1,16 @@
+code,title,explanation,suggested_action
+CART_HESITATION,Hesitation in this session,"The customer already removed items from their cart during this visit, which usually signals indecision.","Show a reminder or a small incentive, such as a free-shipping threshold."
+HABITUAL_REMOVER,Uses the cart like a wishlist,This customer often adds items to the cart and then removes them.,Offer a 'Save for later' list and price-drop alerts.
+LOW_BUYER_HISTORY,Rarely completes purchases,This customer has a low purchase rate compared with how often they add items to the cart.,Offer a first-purchase incentive and show trust signals such as reviews and the return policy.
+HEAVY_BROWSING_HISTORY,"Browses a lot, buys little",Past activity shows many views and cart additions relative to purchases.,Highlight best-sellers and limited-time offers to shorten the decision time.
+WEAK_PRODUCT_CONVERSION,Product rarely sells,Few customers who add this product to their cart go on to buy it.,"Review the product page, photos, reviews, price and stock availability."
+WEAK_CATEGORY_CONVERSION,Category converts poorly,Carts in this category are often abandoned or cleared.,"Check category pricing, delivery options and competing alternatives."
+PRODUCT_REVISITED_NO_BUY,Interested in this product but not buying,The customer viewed or added this exact product before without purchasing it.,Send a targeted reminder or a time-limited discount for this product.
+PRICE_BARRIER,Price may be a barrier,The price is high compared with the category average or the product's usual price.,"Test a discount, a bundle or an installment option."
+PRICE_CHANGE,Price changed since last view,The price differs from what the customer saw when they last viewed the product.,Communicate price changes clearly and consider price-match messaging.
+LARGE_CART,Large cart,"The cart holds many items or a high total value, which increases hesitation.","Offer free shipping, payment plans or money-back guarantee badges."
+COMPARISON_SHOPPING,Comparing alternatives,"The customer looked at many products, categories or brands before adding to the cart.","Show comparison tools, similar items and clear differentiators."
+LOW_INTENT_SESSION,Low purchase intent in this session,"Session behaviour suggests casual interest, for example adding to cart without browsing.",Use exit-intent messages and email or push reminders.
+VISIT_PATTERN,Visit pattern,The customer is new or returns after a long gap between visits.,Use welcome offers and re-engagement emails.
+TIMING,Time of day or week,The cart was created at a time when abandonment is more common.,Schedule reminders and promotions around these hours.
+OTHER,Other factors,A mix of smaller factors.,Review the customer's behaviour in more detail.

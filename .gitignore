@@ -1,1 +1,12 @@
 data/
+
+backup.zip
+dashboard.db
+scored_carts.csv
+*.zip
+*.db
+*-checkpoint.*
+.ipynb_checkpoints/
+__pycache__/
+venv/
+.env
